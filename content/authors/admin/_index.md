@@ -3,25 +3,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Consumer Data Science
+    institution: University of Leeds
+    year: 2020
+  - course: MSc in International Health Management, Biostatistics, Epidemiology
+    institution: Imperial College London
 email: ""
-highlight_name: false
+highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Consumer Behaviour 
+- Business Analytics
 organizations:
-- name: Stanford University
+- name: University of Leeds
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,11 +38,11 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Lawrence Ning Lu
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Senior Research Scientist at [Bradford Institute for Health Research](https://www.bradfordresearch.nhs.uk) in the [Bradford Teaching Hospital NHS](https://www.bradfordhospitals.nhs.uk), and [Centre of Applied Education Research](https://caer.org.uk). My role is to conduct data science projects with the NHS hospital, local authorities and partners. In addition, I am also an Associate Faculty at the [Leeds University Business School](https://business.leeds.ac.uk) and Principle Investigator at Leeds INsitute of Data Analytics in the [University of Leeds](https://www.leeds.ac.uk). I have supervised more than dozens of [MSc Business Analytics](https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc) students as well as a number of data science interns on their data science dissertations and projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m also the founder of [Hero Lab](https://www.hero-lab.com), a data science research lab focused on making a difference on people’s lives. My goal is to develop an industry-oriented research lab based on my sucess at [Leeds Data Science Society](https://leedsdatascience.github.io) and [Team Leeds](https://www.hiscoxgroup.com/blog/hiscox/leeds-crowned-winners-hiscox-university-challenge). For the past 4 years, Leeds Data Science Society has reached more than 1,000 university students in helping them to learn data science and received corporates sponsorships from [BlackRock](https://www.blackrock.com/uk), [KPMG](https://home.kpmg/uk/en/home.html) and [Hiscox](https://www.hiscox.co.uk); Team Leeds has consistently achieved top 3 ranking in the national data challenges. At Hero Lab, I believe people can become a better version of themselves and together we can make the world a better place.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
