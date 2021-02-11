@@ -15,9 +15,9 @@ interests:
 - Consumer Behaviour 
 - Business Analytics
 organizations:
-- name: University of Leeds
-  url: https://www.stanford.edu/
-role: Senior Research Fellow
+- name: Bradford Teaching Hospital NHS
+  url: https://www.bradfordhospitals.nhs.uk
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,8 +41,6 @@ superuser: true
 title: Lawrence Ning Lu
 ---
 
-I'm a Senior Research Scientist at [Bradford Institute for Health Research](https://www.bradfordresearch.nhs.uk) in the [Bradford Teaching Hospital NHS](https://www.bradfordhospitals.nhs.uk), and [Centre of Applied Education Research](https://caer.org.uk). My role is to conduct data science projects with the NHS hospital, local authorities and partners. In addition, I am also an Associate Faculty at the [Leeds University Business School](https://business.leeds.ac.uk) and Principle Investigator at Leeds INsitute of Data Analytics in the [University of Leeds](https://www.leeds.ac.uk). I have supervised more than dozens of [MSc Business Analytics](https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc) students as well as a number of data science interns on their data science dissertations and projects.
+I often handle bespoke data science projects across the NHS, Department of Education, local authorities and universities. Projects are including predicting A&E's admission, For data science projects in commercial sectors, I have led my team to win one national championship and two finalist positions in Hiscox's insurance data challenge for three years. I also have led my team to reach the final of Npower energy forecasting. Two members of my teams have further reached top3# positions in the trivago hotel data challenge. 
 
-I’m also the founder of [Hero Lab](https://www.hero-lab.com), a data science research lab focused on making a difference on people’s lives. My goal is to develop an industry-oriented research lab based on my sucess at [Leeds Data Science Society](https://leedsdatascience.github.io) and [Team Leeds](https://www.hiscoxgroup.com/blog/hiscox/leeds-crowned-winners-hiscox-university-challenge). For the past 4 years, Leeds Data Science Society has reached more than 1,000 university students in helping them to learn data science and received corporates sponsorships from [BlackRock](https://www.blackrock.com/uk), [KPMG](https://home.kpmg/uk/en/home.html) and [Hiscox](https://www.hiscox.co.uk); Team Leeds has consistently achieved top 3 ranking in the national data challenges. At Hero Lab, I believe people can become a better version of themselves and together we can make the world a better place.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a Principle Investigator in data science projects at [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) and a dissertation supervisor of [MSc Business Analytics](https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc) at the [Leeds University Business School](https://business.leeds.ac.uk). I often mentor and teach data science at Leeds Data Science Society, a non-profit initiative I have co-founded and received corporates sponsorships from [BlackRock](https://www.blackrock.com/uk), [KPMG](https://home.kpmg/uk/en/home.html) and [Hiscox](https://www.hiscox.co.uk). 
