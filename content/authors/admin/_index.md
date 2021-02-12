@@ -46,3 +46,4 @@ I handle bespoke data science projects across the NHS, Department of Education, 
 In additon, I am a Principle Investigator in data science projects at [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) and a dissertation supervisor of [MSc Business Analytics](https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc) at the [Leeds University Business School](https://business.leeds.ac.uk). I used to mentor and teach data science at Leeds Data Science Society, a non-profit initiative I have co-founded and received corporates sponsorships from [BlackRock](https://www.blackrock.com/uk), [KPMG](https://home.kpmg/uk/en/home.html) and [Hiscox](https://www.hiscox.co.uk).
 
 <img src="github_chart.png" />
+
