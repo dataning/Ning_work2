@@ -41,9 +41,7 @@ superuser: true
 title: Lawrence Ning Lu
 ---
 
-I handle bespoke data science projects across the NHS, Department of Education, local authorities and universities. Projects are including predicting regional A&E's admission, using spatio-temporal model to understand mental health service, using Bayesian network to dissect the causal inference of dental health care, using spatial regression model to improve school preference. Before joining the Bradford NHS, I have led my data science team to win one national championship and two finalist positions in Hiscox's insurance data challenge for three years, and reach the final of Npower energy forecasting. 
-
-In additon, I am a Principle Investigator in data science projects at [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) and a dissertation supervisor of [MSc Business Analytics](https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc) at the [Leeds University Business School](https://business.leeds.ac.uk). I used to mentor and teach data science at Leeds Data Science Society, a non-profit initiative I have co-founded and received corporates sponsorships from [BlackRock](https://www.blackrock.com/uk), [KPMG](https://home.kpmg/uk/en/home.html) and [Hiscox](https://www.hiscox.co.uk).
+I conduct bespoke data science projects across the NHS, Department of Education, local authorities and universities in West Yorkshire. Before joining the public sector, I have led [Leeds Data Science Society](www.leedsdatascience.com) to win one national championship and two finalists in Hiscox's insurance data science competition for 3 years, reached top 3 in Npower's energy forecasting competition, and mentored two students to reach top 3 in trivago's hotel data competition. In addition, I have been a Principle Investigator in 3 data science intern projects at [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) and a dissertation supervisor in [MSc Business Analytics](https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc) at the [Leeds University Business School](https://business.leeds.ac.uk).
 
 <img src="github_chart.png" />
 
