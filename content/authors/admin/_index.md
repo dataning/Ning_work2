@@ -27,9 +27,9 @@ social:
   icon_pack: fab
 - icon: js-square
   icon_pack: fab
+- icon: database
+  icon_pack: fas
 - icon: google
-  icon_pack: fab
-- icon: aws
   icon_pack: fab
 - icon: github
   icon_pack: fab
