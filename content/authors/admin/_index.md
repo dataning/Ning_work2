@@ -19,19 +19,19 @@ organizations:
   url: https://www.bradfordhospitals.nhs.uk
 role: Data Scientist
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dataning
 - icon: r-project
   icon_pack: fab
 - icon: python
+  icon_pack: fab
+- icon: js-square
   icon_pack: fab
 - icon: google
   icon_pack: fab
 - icon: aws
   icon_pack: fab
-- icon: js-square
+- icon: github
   icon_pack: fab
+  link: https://github.com/dataning
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
