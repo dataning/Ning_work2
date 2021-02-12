@@ -13,7 +13,9 @@ highlight_name: true
 interests:
 - Data Science
 - Consumer Behaviour 
+- Marketing Data Science
 - Business Analytics
+- People Analytics
 organizations:
 - name: Bradford Teaching Hospital NHS
   url: https://www.bradfordhospitals.nhs.uk
