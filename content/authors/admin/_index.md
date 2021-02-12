@@ -19,9 +19,6 @@ organizations:
   url: https://www.bradfordhospitals.nhs.uk
 role: Data Scientist
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/dataning
@@ -29,6 +26,19 @@ social:
   icon_pack: fab
 - icon: python
   icon_pack: fab
+- icon: google
+  icon_pack: fab
+- icon: aws
+  icon_pack: fab
+- icon: js-square
+  icon_pack: fab
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
+- icon: envelope-open-text
+  icon_pack: fas
+- icon: cat
+  icon_pack: fas
 superuser: true
 title: Lawrence Ning Lu
 ---
