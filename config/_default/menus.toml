@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Data Science Projects"  # Title of the link.
+  name = "Portfolio"  # Title of the link.
   url = "landing/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
 [[main]]
-  name = "Papers"  # Title of the link.
+  name = "Publications"  # Title of the link.
   url = "papers/"  # Widget Page folder name.
   weight = 14  # Position of the link in the navigation bar.
 
