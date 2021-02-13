@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Projects"  # Title of the link.
-  url = "landing/Projects"  # Widget Page folder name.
+  url = "landing/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
 [[main]]
@@ -18,10 +18,10 @@
   url = "#posts"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 30
 
 [[main]]
   name = "Talks"
