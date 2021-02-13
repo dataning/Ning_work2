@@ -25,12 +25,8 @@ social:
   icon_pack: fab
 - icon: python
   icon_pack: fab
-- icon: js-square
-  icon_pack: fab
 - icon: database
   icon_pack: fas
-- icon: aws
-  icon_pack: fab
 - icon: google
   icon_pack: fab
 - icon: github
@@ -39,8 +35,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
-- icon: envelope-open-text
-  icon_pack: fas
 - icon: cat
   icon_pack: fas
 superuser: true
