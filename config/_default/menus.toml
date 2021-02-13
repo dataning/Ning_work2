@@ -8,15 +8,20 @@
   url = "landing/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
+[[main]]
+  name = "Papers"  # Title of the link.
+  url = "papers/"  # Widget Page folder name.
+  weight = 14  # Position of the link in the navigation bar.
+
 # [[main]]
 #   name = "Demo"
 #   url = "#about"
 #   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
 
 # [[main]]
 #   name = "Projects"
@@ -28,10 +33,10 @@
   url = "#talks"
   weight = 40
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 50
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 50
 
 [[main]]
   name = "Courses"
