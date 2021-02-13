@@ -8,12 +8,11 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 links:
@@ -21,20 +20,20 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: ""
+publication_short: ""
 publication_types:
-- "1"
+- "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example conference paper
+title: An example preprint / working paper
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_poster: '#'
 url_project: ""
 url_slides: ""
@@ -42,12 +41,5 @@ url_source: '#'
 url_video: '#'
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
