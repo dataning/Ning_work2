@@ -24,11 +24,6 @@
 #   weight = 30
 
 [[main]]
-  name = "People"
-  url = "people/"
-  weight = 34
-
-[[main]]
   name = "Talks"
   url = "#talks"
   weight = 40
