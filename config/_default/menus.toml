@@ -25,7 +25,7 @@
 
 [[main]]
   name = "People"
-  url = "people/"
+  url = "gallery/"
   weight = 34
 
 [[main]]
