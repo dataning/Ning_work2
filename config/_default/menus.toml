@@ -45,8 +45,8 @@
 
 [[main]]
   name = "Contact"
-  url = "people/"
-  weight = 67
+  url = "communication/"
+  weight = 68
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
