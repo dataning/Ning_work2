@@ -44,6 +44,11 @@
   weight = 60
 
 [[main]]
+  name = "Students/Interns"
+  url = "students/"
+  weight = 66
+
+[[main]]
   name = "Contact"
   url = "communication/"
   weight = 68
