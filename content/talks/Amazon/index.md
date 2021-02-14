@@ -27,3 +27,4 @@ url_slides: ""
 url_video: ""
 ---
 
+This is my first ever Data Science Career talk for the members of Leeds Data Science Society. I have decided to interview one of my former student recruit who is now working as a Business Intelligence Engineer. She joined my team when she was just a 2nd year student. I still remember that she decided to delay her flight to get involved in our final presentation of energy forecasting. She had to digest a lot of data science things out of her comfort zone. For that moment, I know she's going to be great. Yes, everyone can show up with a degree of something. But it's the degree of how you commit yourself towards your goal makes the difference. I am a great believer of competence and determination. Show up, commit and make the difference!
