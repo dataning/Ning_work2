@@ -32,9 +32,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dataning
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 - icon: cat
   icon_pack: fas
 superuser: true

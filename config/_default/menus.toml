@@ -53,17 +53,17 @@
   url = "students/"
   weight = 66
 
-[[main]]
-  name = "Contact"
-  url = "communication/"
-  weight = 68
-
 [[main_right]]
-   name = "<span class=\"btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3\">Live Streaming</span>"
+   name = "<i class=\"fab fa-linkedin\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
    post = ""
-   url = "https://YouTube.com/"
-   weight = 70
+   url = "https://www.linkedin.com/in/ningdata/"
+   weight = 69
    
+[[main_right]]
+   name = "<span class=\"btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3\">Contact</span>"
+  url = "communication/"
+  weight = 70
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 # [[main]]
