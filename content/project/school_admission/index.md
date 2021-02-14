@@ -1,5 +1,9 @@
 ---
-date: "2020-06-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
+authors: 
+- Holly Clarke
+- Lawrence Ning Lu
+- Mark Mon-Williams
 external_link: ""
 image:
   caption: Photo by Andy Li on Unsplash
@@ -9,9 +13,15 @@ slides:
 summary:
 tags:
 - Spatial analysis
-title: War on admission - The battlefield between secondary schools and parents.  
+title: School admission - The game of preference.  
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://databradford.com/preference_data.html"
 url_video: ""
 ---
+
+![](fig11.png)
+
+![](fig14.png)
+
+![](fig18.png)

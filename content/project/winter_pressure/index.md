@@ -1,5 +1,7 @@
 ---
 date: "2020-06-01T00:00:00Z"
+authors: 
+- Lawrence Ning Lu
 external_link: ""
 image:
   caption: Photo by Macau Photo Agency on Unsplash
@@ -9,9 +11,13 @@ slides:
 summary:
 tags:
 - Health
-title: Angry Beds - Predicting the "winter pressure" in A&E
+title: A&E admission - Forecasting the "winter pressure" in West Yorkshire
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
+**The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.**
+
+![]()
