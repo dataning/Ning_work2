@@ -31,12 +31,14 @@ content:
     tag: '*'
   - name: Dashboard
     tag: Dashboard
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Spatial Analysis
-    tag: Spatial Analysis
-  - name: Social Media Analysis
-    tag: Social Media Analysis
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Spatial
+    tag: Spatial
+  - name: Text Mining
+    tag: Text Mining
+  - name: Bayesian
+    tag: Bayesian
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '5'
