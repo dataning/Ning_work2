@@ -2,8 +2,8 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Data Science Courses
 type: page
 ---
 
-I teach the following courses:
+I teach the following courses in the University of Leeds:
