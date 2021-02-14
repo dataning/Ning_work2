@@ -18,10 +18,10 @@
 #   url = "#about"
 #   weight = 10
 
-[[main]]
-  name = "Post"
-  url = "writing/"
-  weight = 21
+# [[main]]
+#   name = "Post"
+#   url = "writing/"
+#   weight = 21
 
 # [[main]]
 #   name = "Posts"
@@ -44,14 +44,14 @@
 #   weight = 50
 
 [[main]]
-  name = "Teaching"
+  name = "Training"
   url = "courses/"
   weight = 60
 
-[[main]]
-  name = "Students/Interns"
-  url = "students/"
-  weight = 66
+# [[main]]
+#   name = "Mentored"
+#   url = "students/"
+#   weight = 66
 
 [[main_right]]
    name = "<i class=\"fab fa-linkedin\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
