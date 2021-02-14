@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Portfolio"  # Title of the link.
+  name = "Projects"  # Title of the link.
   url = "landing/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
