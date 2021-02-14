@@ -18,6 +18,11 @@
 #   url = "#about"
 #   weight = 10
 
+[[main]]
+  name = "Post"
+  url = "writing/"
+  weight = 21
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
@@ -39,7 +44,7 @@
 #   weight = 50
 
 [[main]]
-  name = "Courses"
+  name = "Teaching"
   url = "courses/"
   weight = 60
 
@@ -53,6 +58,12 @@
   url = "communication/"
   weight = 68
 
+[[main_right]]
+   name = "<span class=\"btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3\">Live Streaming</span>"
+   post = ""
+   url = "https://YouTube.com/"
+   weight = 70
+   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 # [[main]]
