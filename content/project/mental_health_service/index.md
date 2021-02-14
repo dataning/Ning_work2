@@ -1,25 +1,25 @@
 ---
 date: "2021-01-01T00:00:00Z"
 authors: 
-- Holly Clarke
+- Maike Gatzlaff 
 - Lawrence Ning Lu
 - Mark Mon-Williams
 external_link: ""
 image:
-  caption: Photo by Andy Li on Unsplash
+  caption: 
   focal_point: Smart
 links:
 slides:
 summary:
 tags:
 - Spatial
-title: School admission - The game of preference.  
+title: Mental Health Service - Spatial Temporal Modelling (ongoing)
 url_code: ""
 url_pdf: ""
-url_slides: "https://databradford.com/preference_data.html"
+url_slides: ""
 url_video: ""
 ---
 
-![](fig14.png)
+![](plot15.png)
 
-![](fig18.png)
+![](plot2.png)
