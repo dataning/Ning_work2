@@ -1,13 +1,9 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
 authors:
 - admin
+- Phani Kumar Chintakayala
+- Timothy Devinney
 date: "2019-04-07T00:00:00Z"
 doi: ""
 featured: false
@@ -15,34 +11,17 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: ""
-publication_short: ""
-publication_types:
-- "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2022-01-01T00:00:00Z"
+summary: The choice to engage in socially responsible consumption is reportedly being made more frequently, but evidence of an attitude-behaviour gap suggests that consumers often fail to translate their intentions or attitudes into actual behaviours, even when they have clearly expressed their commitment to that form of consumption. This ambiguity lies in whether ethical or socially responsible consciousness is motivating the consumers, or if other behavioural drivers have been overshadowed by the appearance of socially responsible consumption. This paper demonstrates that situational priming such as the presence of others and salient goal priming, compared to having a goal of adhering to socially responsible consumption, are more effective in motivating the individuals to act upon that means of consumption. Moreover, when the situation piques the interest of individuals with a high Machiavellian trait, they’re more likely to engage in socially responsible consumption. But again, the attitude-behaviour gap persists on the prediction of consumer ethics. This research makes theoretical contributions in using a goal-directed approach, with an emphasis on unconscious behavioural drivers such as situational factors and personality traits. Empirically, it supports the use of experimental studies to determine motivations underlying socially responsible consumption..
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+title: Who are we likely to see at the supermarket checkout, Kim Kardashian or Greta Thunberg? The Consumer Case for Social Responsibility / working paper
+# url_code: '#'
+# url_dataset: '#'
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_poster: '#'
+# url_project: ""
+# url_slides: ""
+# url_source: '#'
+# url_video: '#'
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
