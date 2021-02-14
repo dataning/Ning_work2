@@ -9,6 +9,11 @@
   weight = 2  # Position of the link in the navigation bar.
 
 [[main]]
+  name = "Events"
+  url = "event/"
+  weight = 10
+
+[[main]]
   name = "Publications"  # Title of the link.
   url = "papers/"  # Widget Page folder name.
   weight = 14  # Position of the link in the navigation bar.

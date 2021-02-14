@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 2
 
-title: Data Science Projects
+title: Projects
 subtitle: ''
 
 content:
@@ -31,12 +31,13 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
-
+  - name: Spatial Analysis
+    tag: Spatial Analysis
+  - name: Social Media Analysis
+    tag: Social Media Analysis
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '5'
 
   # Toggle between the various page layout types.
   #   1 = List
