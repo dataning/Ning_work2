@@ -29,6 +29,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Dashboard
+    tag: Dashboard
   - name: Deep Learning
     tag: Deep Learning
   - name: Spatial Analysis
