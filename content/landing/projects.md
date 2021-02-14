@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 2
 
-title: Projects
+title: Data Science Projects
 subtitle: ''
 
 content:
