@@ -10,7 +10,7 @@ links:
 slides:
 summary:
 tags:
-- Health
+- Machine Learning
 title: A&E admission - Forecasting the "winter pressure" in West Yorkshire
 url_code: ""
 url_pdf: ""

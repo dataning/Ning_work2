@@ -11,6 +11,7 @@ slides:
 summary:
 tags:
 - Dashboard
+- Spatial
 title: Broadband Speed - The invisible barrier in remote work and learning in Bradford
 url_code: ""
 url_pdf: ""

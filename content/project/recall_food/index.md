@@ -11,7 +11,8 @@ links:
 slides:
 summary:
 tags:
-- Dashboard
+- Text Mining
+- Machine Learning
 title: Analysis of recalls of food and cosmetics in U.S.
 url_code: ""
 url_pdf: ""

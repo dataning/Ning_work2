@@ -35,6 +35,8 @@ content:
     tag: Machine Learning
   - name: Spatial
     tag: Spatial
+  - name: Time Series
+    tag: Time Series
   - name: Text Mining
     tag: Text Mining
   - name: Bayesian

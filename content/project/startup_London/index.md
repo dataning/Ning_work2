@@ -11,7 +11,7 @@ links:
 slides:
 summary:
 tags:
-- Dashboard
+- Machine Learning
 title: Tech startup survival in London - Machine Learning apporach
 url_code: ""
 url_pdf: ""

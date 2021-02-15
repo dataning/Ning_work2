@@ -8,7 +8,7 @@ links:
 slides:
 summary:
 tags:
-- Crime
+- Time Series
 title: The disentanglement between violent crimes and mental health
 url_code: ""
 url_pdf: ""
