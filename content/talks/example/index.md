@@ -20,7 +20,7 @@ publishDate: "2020-05-02T00:00:00Z"
 slides: example
 summary: 
 tags: []
-title: How to bridge academia and industry data science?
+title: Speaking at Royal Economic Society - How to bridge academia and industry data science?
 url_code: ""
 url_pdf: ""
 url_slides: ""

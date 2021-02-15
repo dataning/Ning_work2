@@ -19,8 +19,11 @@ url_slides: "https://rpubs.com/ningdata/bradford_net"
 url_video: ""
 ---
 
+
 ![](dens.png)
 
 ![](speed_map.png)
 
-**The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.**
+{{% callout note %}}
+The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+{{% /callout %}}
