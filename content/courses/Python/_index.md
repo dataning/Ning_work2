@@ -1,8 +1,8 @@
 ---
-date: "2021-01-24"
+date: "2021-01-30"
 linkTitle: Data Science
 summary: Introduction to Data Science
-title: "\U0001F4CA Learn Data Science in Python"
+title: "\U0001F4CA Python - Introduction to Data Science"
 type: book
 ---
 

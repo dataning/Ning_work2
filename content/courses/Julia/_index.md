@@ -2,7 +2,7 @@
 date: "2021-01-24"
 linkTitle: Data Science
 summary: Introduction to Data Science
-title: "\U0001F4CA Learn Data Science in Julia"
+title: "\U0001F4CA Julia - Introduction to Data Science"
 type: book
 ---
 
