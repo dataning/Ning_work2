@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Consumer Data Science
     institution: University of Leeds
-    year: 2020
+    year: 2019
   - course: MSc in International Health Management with Biostatistics and Epidemiology
     institution: Imperial College London
 email: ""
