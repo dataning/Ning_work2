@@ -10,11 +10,11 @@ links:
 slides:
 summary:
 tags:
-- Machine Learning
+- Dashboard
 title: Building an open data science repo for Bradford
 url_code: ""
-url_pdf: "www.databradford.com"
-url_slides: ""
+url_pdf: ""
+url_slides: "www.databradford.com"
 url_video: ""
 ---
 
