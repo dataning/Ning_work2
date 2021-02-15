@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: London
+  city: 
   country: United Kingdom
   postcode: ""
-  region: London
+  region: 
   street:
 all_day: false
 authors: []
@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Takeing the team for an away trip
-tags: []
-title: Visiting Lloyd's of London
+summary: 
+tags: 
+- Hiscox
+title: Lloyd's of London - Visiting one of the oldest insurance trading markets
 url_code: ""
 url_pdf: ""
 url_slides: ""

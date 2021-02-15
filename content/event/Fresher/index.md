@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -17,15 +17,16 @@ image:
   caption: 'Image credit: [**Hero-lab**]'
   focal_point: Right
 links:
-location: University of Leeds
+location: 
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Leeds Data Science Society's welcome event.
-tags: []
-title: 230 people expressing interest to learn data science! 
+summary: 
+tags: 
+- Public Good
+title: 230 people showed up at 6pm to listen to our data science talk?!
 url_code: ""
 url_pdf: ""
 url_slides: ""

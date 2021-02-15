@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -24,7 +24,8 @@ projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Student data science competition.
-tags: []
+tags: 
+- Public Good
 title: Running our own data science challenge
 url_code: ""
 url_pdf: ""

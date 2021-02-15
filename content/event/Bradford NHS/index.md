@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -17,15 +17,16 @@ image:
   caption: 'Image credit: [**Hero-lab**]'
   focal_point: Right
 links:
-location: University of Leeds
+location: 
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Inspiring the children
-tags: []
-title: Visiting a primary school to talk about data science career
+summary: 
+tags: 
+- Public Good
+title: Bradford Primary School - Data Scientist as a Time Traveller
 url_code: ""
 url_pdf: ""
 url_slides: ""

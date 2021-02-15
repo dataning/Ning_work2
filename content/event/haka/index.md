@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Team Haka to boost winning.
-tags: []
-title: Haka For Winning the Hiscox Data Science Challenge
+summary: 
+tags: 
+- Hiscox
+title: Hiscox - Haka dance to prepare team mentality!
 url_code: ""
 url_pdf: ""
 url_slides: ""

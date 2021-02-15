@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Takeing the team for an away trip
-tags: []
-title: Visting trivago in Germany
+summary: 
+tags: 
+- trivago
+title: trivago - Flying to Germany with my team and spending time with trivago
 url_code: ""
 url_pdf: ""
 url_slides: ""

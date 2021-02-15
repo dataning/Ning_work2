@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Rewarding the hard workers.
-tags: []
-title: Infecting the data science interns "Data is the New Pokemon"
+summary: 
+tags: 
+- Public Good
+title: Rewarding "Data Pokémon" T-shirts to the hard-working interns!
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -34,8 +34,18 @@ content:
     tag: Hiscox
   - name: Facebook
     tag: Facebook
+  - name: trivago
+    tag: trivago
+  - name: KPMG
+    tag: KPMG
   - name: TransUnion
     tag: TransUnion
+  - name: FDM
+    tag: FDM
+  - name: Others
+    tag: Others
+  - name: Public Good
+    tag: Public Good
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '5'

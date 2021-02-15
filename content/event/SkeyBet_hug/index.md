@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: SkyBet Stategy Director.
-tags: []
-title: Meeting the first person who showed the support to us.
+summary: 
+tags: 
+- SkyBet
+title: SkyBet - the first person who showed support to us.
 url_code: ""
 url_pdf: ""
 url_slides: ""

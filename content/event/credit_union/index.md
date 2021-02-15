@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -17,15 +17,16 @@ image:
   caption: 'Image credit: [**Hero-lab**]'
   focal_point: Right
 links:
-location: University of Leeds
+location: 
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Giving a talk about team-based data science.
-tags: []
-title: Visiting the Credit Union
+summary:
+tags: 
+- TransUnion
+title: TransUnion - Giving a talk and touring the company in Leeds
 url_code: ""
 url_pdf: ""
 url_slides: ""

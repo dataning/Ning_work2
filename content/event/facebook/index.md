@@ -1,16 +1,16 @@
 ---
 abstract:
 address:
-  city: London
+  city: 
   country: United Kingdom
   postcode: ""
-  region: London
+  region: 
   street:
 all_day: false
 authors: []
 date: "2019-12-01T13:00:00Z"
 date_end: "2019-12-01T15:00:00Z"
-event: Business
+event: Analytics
 event_url:
 featured: false
 image:
@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2019-12-01T00:00:00Z"
 slides:
-summary: Facebook Analytic Academy.
-tags: []
-title: Visiting Facebook
+summary: 
+tags: 
+- Facebook
+title: Facebook Analytic Academy and they love my "Data Pokémon" T-shirt!
 url_code: ""
 url_pdf: ""
 url_slides: ""

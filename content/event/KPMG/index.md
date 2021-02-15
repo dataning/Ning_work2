@@ -24,8 +24,9 @@ projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Team Haka to boost winning.
-tags: []
-title: Haka For Winning the Hiscox Data Science Challenge
+tags: 
+- KPMG
+title: KPMG - Collaborating with them and they've become one of us!
 url_code: ""
 url_pdf: ""
 url_slides: ""

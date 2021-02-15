@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Becoming the cover person of the year!
-tags: []
-title: FacePage!  
+summary: 
+tags: 
+- Public Good
+title: Becoming the front cover of our centre's magazine!  
 url_code: ""
 url_pdf: ""
 url_slides: ""

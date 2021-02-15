@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: We won the Hiscox Data Science Challenge!
-tags: []
-title: Winning is Everything
+summary: 
+tags: 
+- Hiscox
+title: We won the Hiscox Data Science Challenge!
 url_code: ""
 url_pdf: ""
 url_slides: ""

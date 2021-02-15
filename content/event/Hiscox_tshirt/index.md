@@ -1,31 +1,32 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
 date: "2016-06-01T13:00:00Z"
 date_end: "2016-06-01T15:00:00Z"
-event: Business
+event: Data Science
 event_url:
 featured: false
 image:
   caption: 'Image credit: [**Hero-lab**]'
   focal_point: Right
 links:
-location: University of Leeds
+location: 
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Hiscox gets "Data is the New Pokemon"!
-tags: []
-title: Hiscox is visiting us! 
+summary: 
+tags: 
+- Hiscox
+title: Hiscox is visiting us in Leeds! 
 url_code: ""
 url_pdf: ""
 url_slides: ""

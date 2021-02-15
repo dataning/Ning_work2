@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -17,15 +17,16 @@ image:
   caption: 'Image credit: [**Hero-lab**]'
   focal_point: Right
 links:
-location: University of Leeds
+location: 
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Taking the team for an away trip.
-tags: []
-title: Visiting FDM group
+summary: 
+tags: 
+- FDM
+title: FDM group - Taking the team to visit FDM group in Leeds
 url_code: ""
 url_pdf: ""
 url_slides: ""

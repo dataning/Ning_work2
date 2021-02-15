@@ -1,10 +1,10 @@
 ---
 abstract:
 address:
-  city: Leeds
+  city: 
   country: United Kingdom
   postcode: ""
-  region: West Yorkshire
+  region: 
   street:
 all_day: false
 authors: []
@@ -14,7 +14,7 @@ event: Business
 event_url:
 featured: false
 image:
-  caption: 'Image credit: [**Hero-lab**]'
+  caption: 'Image credit: [**Ning**]'
   focal_point: Right
 links:
 location: University of Leeds
@@ -23,9 +23,10 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Team Haka to boost winning.
-tags: []
-title: Haka For Winning the Hiscox Data Science Challenge
+summary:
+tags: 
+- SkyBet
+title: SkyBet - Running a workshop with SkyBet's Frontend Developers. 
 url_code: ""
 url_pdf: ""
 url_slides: ""
