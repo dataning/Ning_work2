@@ -22,3 +22,7 @@ url_video: ""
 ![](plot1.png)
 
 ![](plot2.png)
+
+{{% callout note %}}
+The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+{{% /callout %}}
