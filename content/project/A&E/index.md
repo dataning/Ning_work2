@@ -1,7 +1,6 @@
 ---
 date: "2020-06-01T00:00:00Z"
 authors: 
-- He Zhang
 - Lawrence Ning Lu
 external_link: ""
 image:
@@ -13,7 +12,7 @@ summary:
 tags:
 - Time Series
 - Machine Learning
-title: A&E - The winter pressure
+title: A&E - Forecasting the winter pressure for regional hospitals
 url_code: ""
 url_pdf: ""
 url_slides: ""
