@@ -17,9 +17,13 @@ Maike - Current
 
 Holly Clarke - Office for National Statistics
 
-Maike - Ausrine Rimeikyte
+Ausrine Rimeikyte - Amazon
 
-### Former MSc Students
+### Former MSc Business Analytics Students
+
+Taodan Kaptan, Weihan Mao, Xuyu Mo, Han Yinglei, Yuanyuan Gu, Lanyuting Wang, Zhichao Wen, 
+
+### Former Team Leeds Students
 
 Ting Wang - Weber Shandwick
 
@@ -28,3 +32,7 @@ Erin Knochenhauer - Mintel
 Sakis Sakkas - BlackRock
 
 Karen Husel - Nielsen
+
+Vincent Chen - eBay
+
+Ben Sultanovic - Account Technologies
