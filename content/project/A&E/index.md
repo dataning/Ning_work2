@@ -12,7 +12,7 @@ summary:
 tags:
 - Time Series
 - Machine Learning
-title: A&E - Forecasting the winter pressure for regional hospitals
+title: A&E admission - Forecasting the "winter pressure" in West Yorkshire
 url_code: ""
 url_pdf: ""
 url_slides: ""
