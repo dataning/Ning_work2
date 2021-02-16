@@ -55,7 +55,7 @@
 
 [[main]]
   name = "Students/Interns"
-  url = "students/"
+  url = "people/"
   weight = 67
 
 [[main_right]]
