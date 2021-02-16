@@ -3,7 +3,7 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Data Science Interns & Students I have supervised or led
+title: Students or interns that I have supervised or led in data science projects
 view: 4
 ---
 
@@ -11,9 +11,9 @@ view: 4
 
 Holly Clarke - Office for National Statistics
 
-Maike - Current
+Maike Gatzlaff - Current working with
 
-### Former Team Leeds Students
+### Former students I have recruited and worked with
 
 Laura Garcia - Assistant Economist, Office for National Statistics
 
@@ -33,6 +33,10 @@ Vincent Chen - Business Anlytic Manager, eBay
 
 Ben Sultanovic - Account Technologies
 
-### Former MSc Business Analytics Students
+### Former MSc Business Analytics Students (2020)
 
-Taodan Kaptan, Weihan Mao, Xuyu Mo, Han Yinglei, Yuanyuan Gu, Lanyuting Wang, Zhichao Wen, 
+Taodan Kaptan, Weihan Mao, Xuyu Mo, 
+
+Han Yinglei, Yuanyuan Gu, Lanyuting Wang, 
+
+Zhichao Wen, 
