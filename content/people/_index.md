@@ -9,7 +9,7 @@ view: 4
 
 ### Current Full-Time Data Science Interns
 
--   Maike Gatzlaff - Current working with
+-   Maike Gatzlaff
 
 ### Former Full-Time Data Science Interns
 
