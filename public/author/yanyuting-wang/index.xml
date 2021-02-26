@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanyuting Wang | Data Pokémon 🍱</title>
+    <link>/author/yanyuting-wang/</link>
+      <atom:link href="/author/yanyuting-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanyuting Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Yanyuting Wang</title>
+      <link>/author/yanyuting-wang/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of Yelp Ratings using Machine Learning</title>
+      <link>/project/yelp_rating/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/yelp_rating/</guid>
+      <description>&lt;p&gt;In order to help business owners to determine the impact of various restaurants factors on consumer ratings and help some investors to make more rational judgments. This study examines the underlying factors that can make or break a potential restaurant. The research object of this study includes all the restaurants in operation, excluding those that have declared bankruptcy, and also not limited to the start-up restaurants. After preprocessing the data to deal with missing values, various machine learning techniques(SVM, logistic regression, decision tree and random forest classifier) are run to make predictions in the Yelp open dataset. The finding or the result shows that, among all the established models, the random forest model performs very well, with an accuracy of 0.7582, which is only slightly less than 0.003 of support vector machine (SVM) and almost negligible. In the other three indexes, the random forest is higher than other models. According to the table of results from the random forest model, the number of comments is the most important predictor. Openness, noise level and alcohol also greatly influence the target variable - &amp;ldquo;stars&amp;rdquo;, with the importance decreasing in turn.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

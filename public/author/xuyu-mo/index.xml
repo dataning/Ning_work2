@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuyu Mo | Data Pokémon 🍱</title>
+    <link>/author/xuyu-mo/</link>
+      <atom:link href="/author/xuyu-mo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuyu Mo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Xuyu Mo</title>
+      <link>/author/xuyu-mo/</link>
+    </image>
+    
+    <item>
+      <title>Comparative analysis of risk control effect of three major cities in Yorkshire under covid-19</title>
+      <link>/project/risk_control/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/risk_control/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Based on the public health crisis of global pneumonia in 2020, three tasks are carried out: to analyze the epidemic situation and control situation in Leeds York Sheffield by time series analysis, and to explore the management structure problems reflected in the large-scale public health and safety problems, by analyzing the overall and local case growth in the UK. Through the government&amp;rsquo;s public opinion survey report, the demand of merchants and the results of the government&amp;rsquo;s subsidy and assistance are clarified,finding the gap between plan and implementation. To explore the effectiveness of the measures and implementation formulated by the government, and compare the gap between the two. By comparing the expected effect of the annual financial plan and risk planning with the actual situation, the relationship between the control and management effect of the three local epidemic situation and the above two is compared. Finally, it evaluates whether financial budget can be effectively used in risk assessment, and examines the decision-making and bias of local governments in the UK.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhichao Wen | Data Pokémon 🍱</title>
+    <link>/author/zhichao-wen/</link>
+      <atom:link href="/author/zhichao-wen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhichao Wen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhichao Wen</title>
+      <link>/author/zhichao-wen/</link>
+    </image>
+    
+    <item>
+      <title>The Factors of E-Learning Success by Analytics of Students Perceptions</title>
+      <link>/project/attribute_learning/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/attribute_learning/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;E-learning is rapidly evolving and is affecting all walks of life. Especially this year, because of Coronavirus, the number of users using e-learning is growing rapidly. Because of Coronavirus, schools have stopped physical classes and forced all students to study online. In the survey, students will be asked about their perceptions of e-learning from a variety of viewpoints, such as length of study, educational impact, comparison to traditional classes, enjoyment, impact of campus experience, impact of diplomas, motivation, and privacy. As a result of this study, it was found that the age of the learner was positively correlated with self- control; academic background was more focused on the impact of e-learning on the value of clerical employment; and the quality of teaching and educational resources influenced the value of e-learning. The study will identify key factors for the future direction of e-learning development.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

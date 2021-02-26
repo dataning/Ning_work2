@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Good | Data Pokémon 🍱</title>
+    <link>/tag/public-good/</link>
+      <atom:link href="/tag/public-good/index.xml" rel="self" type="application/rss+xml" />
+    <description>Public Good</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Public Good</title>
+      <link>/tag/public-good/</link>
+    </image>
+    
+    <item>
+      <title>230 people showed up at 6pm to listen to our data science talk?!</title>
+      <link>/talk/230-people-showed-up-at-6pm-to-listen-to-our-data-science-talk/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/230-people-showed-up-at-6pm-to-listen-to-our-data-science-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming the front cover of our centre&#39;s magazine!</title>
+      <link>/talk/becoming-the-front-cover-of-our-centres-magazine/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/becoming-the-front-cover-of-our-centres-magazine/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bradford Primary School - Data Scientist as a Time Traveller</title>
+      <link>/talk/bradford-primary-school-data-scientist-as-a-time-traveller/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/bradford-primary-school-data-scientist-as-a-time-traveller/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rewarding &#34;Data Pokémon&#34; T-shirts to the hard-working interns!</title>
+      <link>/talk/rewarding-data-pokemon-t-shirts-to-the-hard-working-interns/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/rewarding-data-pokemon-t-shirts-to-the-hard-working-interns/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Running our own data science challenge</title>
+      <link>/talk/running-our-own-data-science-challenge/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/running-our-own-data-science-challenge/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

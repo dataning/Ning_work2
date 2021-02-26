@@ -1,34 +1,261 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Academic</title>
+    <title>Events | Data Pokémon 🍱</title>
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Events</title>
       <link>/event/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example-talk/</guid>
+      <title>Facebook Analytic Academy and they love my &#34;Data Pokémon&#34; T-shirt!</title>
+      <link>/talk/facebook-analytic-academy-and-they-love-my-data-pokemon-t-shirt/</link>
+      <pubDate>Sun, 01 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/facebook-analytic-academy-and-they-love-my-data-pokemon-t-shirt/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    Everything is confidential except the fun.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>trivago - Flying to Germany with my team and spending time with trivago</title>
+      <link>/talk/trivago-flying-to-germany-with-my-team-and-spending-time-with-trivago/</link>
+      <pubDate>Fri, 01 Jun 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/trivago-flying-to-germany-with-my-team-and-spending-time-with-trivago/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hiscox - Taking my team to visit the rocket insurance in York!</title>
+      <link>/talk/hiscox-taking-my-team-to-visit-the-rocket-insurance-in-york/</link>
+      <pubDate>Fri, 02 Jun 2017 13:00:00 +0000</pubDate>
+      <guid>/talk/hiscox-taking-my-team-to-visit-the-rocket-insurance-in-york/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lloyd&#39;s of London - Visiting one of the oldest insurance trading markets</title>
+      <link>/talk/lloyds-of-london-visiting-one-of-the-oldest-insurance-trading-markets/</link>
+      <pubDate>Fri, 02 Jun 2017 13:00:00 +0000</pubDate>
+      <guid>/talk/lloyds-of-london-visiting-one-of-the-oldest-insurance-trading-markets/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working with SkyBet for coding workshop</title>
+      <link>/talk/working-with-skybet-for-coding-workshop/</link>
+      <pubDate>Thu, 01 Jun 2017 13:00:00 +0000</pubDate>
+      <guid>/talk/working-with-skybet-for-coding-workshop/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>230 people showed up at 6pm to listen to our data science talk?!</title>
+      <link>/talk/230-people-showed-up-at-6pm-to-listen-to-our-data-science-talk/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/230-people-showed-up-at-6pm-to-listen-to-our-data-science-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming the front cover of our centre&#39;s magazine!</title>
+      <link>/talk/becoming-the-front-cover-of-our-centres-magazine/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/becoming-the-front-cover-of-our-centres-magazine/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bradford Primary School - Data Scientist as a Time Traveller</title>
+      <link>/talk/bradford-primary-school-data-scientist-as-a-time-traveller/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/bradford-primary-school-data-scientist-as-a-time-traveller/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FDM group - Taking the team to visit FDM group in Leeds</title>
+      <link>/talk/fdm-group-taking-the-team-to-visit-fdm-group-in-leeds/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/fdm-group-taking-the-team-to-visit-fdm-group-in-leeds/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hiscox - Haka dance to prepare team mentality!</title>
+      <link>/talk/hiscox-haka-dance-to-prepare-team-mentality/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/hiscox-haka-dance-to-prepare-team-mentality/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hiscox is visiting us in Leeds!</title>
+      <link>/talk/hiscox-is-visiting-us-in-leeds/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/hiscox-is-visiting-us-in-leeds/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KPMG - Collaborating with them and they&#39;ve become one of us!</title>
+      <link>/talk/kpmg-collaborating-with-them-and-theyve-become-one-of-us/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/kpmg-collaborating-with-them-and-theyve-become-one-of-us/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kubrick - Taking our team to visit a London data consultancy.</title>
+      <link>/talk/kubrick-taking-our-team-to-visit-a-london-data-consultancy./</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/kubrick-taking-our-team-to-visit-a-london-data-consultancy./</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rewarding &#34;Data Pokémon&#34; T-shirts to the hard-working interns!</title>
+      <link>/talk/rewarding-data-pokemon-t-shirts-to-the-hard-working-interns/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/rewarding-data-pokemon-t-shirts-to-the-hard-working-interns/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Running our own data science challenge</title>
+      <link>/talk/running-our-own-data-science-challenge/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/running-our-own-data-science-challenge/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SkyBet - Running a workshop with SkyBet&#39;s Frontend Developers.</title>
+      <link>/talk/skybet-running-a-workshop-with-skybets-frontend-developers./</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/skybet-running-a-workshop-with-skybets-frontend-developers./</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SkyBet - the first person who showed support to us.</title>
+      <link>/talk/skybet-the-first-person-who-showed-support-to-us./</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/skybet-the-first-person-who-showed-support-to-us./</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TransUnion - Giving a talk and touring the company in Leeds</title>
+      <link>/talk/transunion-giving-a-talk-and-touring-the-company-in-leeds/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/transunion-giving-a-talk-and-touring-the-company-in-leeds/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We won the Hiscox Data Science Challenge!</title>
+      <link>/talk/we-won-the-hiscox-data-science-challenge/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/we-won-the-hiscox-data-science-challenge/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     

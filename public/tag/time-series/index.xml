@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series | Data Pokémon 🍱</title>
+    <link>/tag/time-series/</link>
+      <atom:link href="/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Series</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Time Series</title>
+      <link>/tag/time-series/</link>
+    </image>
+    
+    <item>
+      <title>A map of hotspots in arson crime and a time series regression analysis of arson behaviour and treatment of depression in Leeds</title>
+      <link>/project/violent_crime/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/violent_crime/</guid>
+      <description>&lt;p&gt;Arson cases often attract complete attention due to their lousy influence. At the same time, depression has become the second most disabling disease in 26 countries, and the number of cases has risen sharply in the past decade. Studies on these two aspects are often reflected in specific case studies, while case-related information is challenging to obtain. This paper hopes to study the correlation between the two by using the big data published on the government website.&lt;/p&gt;
+&lt;p&gt;This paper used the data published on the Leeds local Government website from January 2015 to March 2020 in the United Kingdom and analyzed the relationship between arson hotspots and depression from two parts: space and time. Combined with the existing literature, the clustering analysis was carried out by introducing related variables based on the hot spot chart. The hotspot map obtained by cluster analysis showed that the urban centre area is more prone to deliberate arson. Areas with high morbidity had more bars, casinos, community rentals and schools and fewer police stations.&lt;/p&gt;
+&lt;p&gt;Besides, time series analysis and Granger causality test of the number of arson cases and the number of people receiving treatment for IAPT depression were also studied. The findings from these studies suggested that the three-exponential smoothing model is the most effective in predicting arson cases. Granger causality test showed that the arson case is granger&amp;rsquo;s reason for receiving IAPT treatment.&lt;/p&gt;
+&lt;p&gt;Based on data analysis, the author expects that the generated crime hot spot map may provide some assistant for local government governance-related cases. Meanwhile, it is suggested to strengthen the psychological prevention and psychological counselling in the areas with a high incidence of cases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A quantitative analysis of female self-employment in the UK</title>
+      <link>/project/female_employment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/female_employment/</guid>
+      <description>&lt;p&gt;The number of women starting their own businesses is increasing in the UK. Many scholars have studied this subject. What are the implications and benefits of using machine learning to analyse this trend for British women? This paper makes a quantitative analysis of British women&amp;rsquo;s self-employment. In this paper, three hypotheses are proposed and analysed by three methods. Firstly, time series prediction is used to analyse the trend change of British women&amp;rsquo;s self-employment with the development of time. The analysis results show that the proportion of British women starting their businesses has continually increased over time. It is predicted that the trend will continue to rise in the future. Secondly, the Clustering analysis method is used to analyse the features of the UK&amp;rsquo;s self-employment industry. The industry cluster of self-employment shows gender differences, and there is a significant difference between female and male in choosing self-employment industry. Finally, Survival analysis is adopted to analyse women&amp;rsquo;s self-employment survival time in the three industries specified in this paper. Although female entrepreneurs&#39; survival time is slightly shorter than that of male entrepreneurs, there is no significant difference in their survival curve. The financial crisis of 2008 and the COVID-19 pandemic of 2020 have had a significant negative impact on women&amp;rsquo;s self- employment in the UK. The government should introduce reasonable and effective policies to help female self-employment, such as childcare policies and funding policies. Women should improve their education, which will help increase the success rate of self-employment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A&amp;E admission - Forecasting the &#34;winter pressure&#34; in West Yorkshire</title>
+      <link>/project/ae/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/ae/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Develop an open dashboard for local government based on spending data</title>
+      <link>/project/council_spending/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/council_spending/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Currently, with the increasing development of open data as well as public’s awareness of performance evaluation for local governments to see whether governments are doing their jobs. In this way, local governments have to satisfy the increasing needs from the public and make full use of the open data. Thus, this paper is aiming to provide a way for local governments to use open government data to develop open data driven KPI to evaluate their performance and use visualization to monitor their performance and facilitate participations of the public. Based on this, the spending data of Leeds Council is used to mine the possible patterns within the data through cluster analysis and dashboard is used to manage the performance in the visual way. In this case, spending is defined as the open KPI to evaluate the performance of Leeds Council and it is found that there are priorities of spending which can be compared with operational goals to determine whether Leeds government has good performance. Finally, it is suggested that not only local governments but also business corporations can utilize the open data to create more values and support their decisions making.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

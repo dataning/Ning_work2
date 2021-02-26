@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taodan Kaptan Abood | Data Pokémon 🍱</title>
+    <link>/author/taodan-kaptan-abood/</link>
+      <atom:link href="/author/taodan-kaptan-abood/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taodan Kaptan Abood</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Taodan Kaptan Abood</title>
+      <link>/author/taodan-kaptan-abood/</link>
+    </image>
+    
+    <item>
+      <title>Tech startup survival in London - Machine Learning apporach</title>
+      <link>/project/startup_london/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/startup_london/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project studies the survival factors of technological startups registred in London between 2015 and 2019. It also develops a Random Forest model to predict future startup status (Active or Out of business). The analysis uses the combination of two data sources, FAME and Companies House. This work shows that the survival of technology startups is positively linked to directors age, company size (“liability of smallness” thesis) and the indebtedness level (“Pecking order” theory). The analysis also finds a positive relationship between female directors presence and survival rate, which contradict a large number of articles. The startup geographic location is also analysed, a however more detailed study should be done to identify how it is connected with the business performance. Finally, the predictive model developed offers an acceptable accuracy (around 0.7) but a moderate agreement with the actual values (Kappa = 0.44).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social media Analysis | Data Pokémon 🍱</title>
+    <link>/tag/social-media-analysis/</link>
+      <atom:link href="/tag/social-media-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social media Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Social media Analysis</title>
+      <link>/tag/social-media-analysis/</link>
+    </image>
+    
+    <item>
+      <title>How does social media help pop-up stores of different size enterprises to success?</title>
+      <link>/project/popup_stores/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/popup_stores/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The goal is to compare the online sentiment, social media topics, and network tie of pop-up stores from SME (small and medium- sized enterprises) and LE (large enterprise) in the UK. This project is focused on sentiment analysis, topic modelling and network analysis on the social media data associated with the pop-up stores. Three findings have been derived from the study. First of all, neutral is the most common attitude for the pop-up stores, and the public has the less negative attitudes towards the pop-up stores of LE compared to the pop-up stores of SME. Specifically, the public tends to feel more positive and anticipated with the pop-up stores of LE, but more joy with the pop-up stores of SME. What is more, the synergy exists when one pop-up store launched, which would boost the public attitude to other pop-up stores. Second, there is no difference in terms of the social media text topics involved with the pop-up stores between the LE and SME, which would conclude into three topics, subjects of pop-up stores, time and location, and attractive words. Third, LEs are more willing to not only use the easily recognizable hashtags but also collaborative with accounts of social media influencer and other businesses than the SMEs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

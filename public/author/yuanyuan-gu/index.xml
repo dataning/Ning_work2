@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanyuan Gu | Data Pokémon 🍱</title>
+    <link>/author/yuanyuan-gu/</link>
+      <atom:link href="/author/yuanyuan-gu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuanyuan Gu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuanyuan Gu</title>
+      <link>/author/yuanyuan-gu/</link>
+    </image>
+    
+    <item>
+      <title>A map of hotspots in arson crime and a time series regression analysis of arson behaviour and treatment of depression in Leeds</title>
+      <link>/project/violent_crime/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/violent_crime/</guid>
+      <description>&lt;p&gt;Arson cases often attract complete attention due to their lousy influence. At the same time, depression has become the second most disabling disease in 26 countries, and the number of cases has risen sharply in the past decade. Studies on these two aspects are often reflected in specific case studies, while case-related information is challenging to obtain. This paper hopes to study the correlation between the two by using the big data published on the government website.&lt;/p&gt;
+&lt;p&gt;This paper used the data published on the Leeds local Government website from January 2015 to March 2020 in the United Kingdom and analyzed the relationship between arson hotspots and depression from two parts: space and time. Combined with the existing literature, the clustering analysis was carried out by introducing related variables based on the hot spot chart. The hotspot map obtained by cluster analysis showed that the urban centre area is more prone to deliberate arson. Areas with high morbidity had more bars, casinos, community rentals and schools and fewer police stations.&lt;/p&gt;
+&lt;p&gt;Besides, time series analysis and Granger causality test of the number of arson cases and the number of people receiving treatment for IAPT depression were also studied. The findings from these studies suggested that the three-exponential smoothing model is the most effective in predicting arson cases. Granger causality test showed that the arson case is granger&amp;rsquo;s reason for receiving IAPT treatment.&lt;/p&gt;
+&lt;p&gt;Based on data analysis, the author expects that the generated crime hot spot map may provide some assistant for local government governance-related cases. Meanwhile, it is suggested to strengthen the psychological prevention and psychological counselling in the areas with a high incidence of cases.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Talk and Interview | Data Pokémon 🍱</title>
+    <link>/talks/</link>
+      <atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science Talk and Interview</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Feb 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science Talk and Interview</title>
+      <link>/talks/</link>
+    </image>
+    
+    <item>
+      <title>Data Science Career Talk - Working as a Amazon Business Intelligence Engineer - Interviewing a former student</title>
+      <link>/talks/amazon/</link>
+      <pubDate>Tue, 02 Feb 2021 13:00:00 +0000</pubDate>
+      <guid>/talks/amazon/</guid>
+      <description>&lt;p&gt;This is my first ever Data Science Career talk for the members of Leeds Data Science Society. I have decided to interview one of my former student recruit who is now working as a Business Intelligence Engineer. She joined my team when she was just a 2nd year student. I still remember that she decided to delay her flight to get involved in our final presentation of energy forecasting. She had to digest a lot of data science things out of her comfort zone. For that moment, I know she&amp;rsquo;s going to be great. Yes, everyone can show up with a degree of something. But it&amp;rsquo;s the degree of how you commit yourself towards your goal makes the difference. I am a great believer of competence and determination. Show up, commit and make the difference!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speaking at TransUnion - Winning a data science championship</title>
+      <link>/talks/transunion/</link>
+      <pubDate>Tue, 02 Feb 2021 13:00:00 +0000</pubDate>
+      <guid>/talks/transunion/</guid>
+      <description>&lt;p&gt;This talk is to share the experience of winning the Hiscox Data Challenge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Royal Economic Society - How to bridge academia and industry data science?</title>
+      <link>/talks/example/</link>
+      <pubDate>Thu, 02 May 2019 13:00:00 +0000</pubDate>
+      <guid>/talks/example/</guid>
+      <description>&lt;p&gt;Research Applications and Methods for Economics and Transport Studies (RAMETS) invites you to take part in a discussion on how we can utilise big data in research and better inform policy. Big data is high-volume and high-velocity such that conventional data-processing cannot be used so new forms of processing are created. The purpose of the event is to share ideas, experiences and thoughts on the possibilities from big data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

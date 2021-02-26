@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinglei Han | Data Pokémon 🍱</title>
+    <link>/author/yinglei-han/</link>
+      <atom:link href="/author/yinglei-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinglei Han</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Yinglei Han</title>
+      <link>/author/yinglei-han/</link>
+    </image>
+    
+    <item>
+      <title>Classification Models of Software-related Medical Device Recalls by Machine Learning</title>
+      <link>/project/recall_software/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/recall_software/</guid>
+      <description>&lt;p&gt;This project focuses on software-related medical device recalls. As the application of software in the medical devices field becomes more popular and complex, this issue deserves more attention. Most existing work involves distribution, fault modes and trend analysis, and related recalls are collected by manual work, which is time-consuming. The paper attempts to build an automatic classification model by machine learning. Firstly, the data is from the FDA website from 2018 to 2019. Secondly, text mining is conducted to deal with human written descriptions. Thirdly, the paper uses k-NN algorithm and Naïve Bayes algorithm to build models, and then tests them by cross validation. The models perform well and their accuracy are both around 90%, which means such classification models by machine learning are feasible. But there are also some problems, such as the selection of parameter k value in k-NN model, and they do not perform well in some other measurements such as sensitivity. In future work, more optional algorithms including hybrid ones should be considered, then the study in this area will provide a more efficient way to medical agencies and manufacturers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

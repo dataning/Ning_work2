@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FDM | Data Pokémon 🍱</title>
+    <link>/tag/fdm/</link>
+      <atom:link href="/tag/fdm/index.xml" rel="self" type="application/rss+xml" />
+    <description>FDM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>FDM</title>
+      <link>/tag/fdm/</link>
+    </image>
+    
+    <item>
+      <title>FDM group - Taking the team to visit FDM group in Leeds</title>
+      <link>/talk/fdm-group-taking-the-team-to-visit-fdm-group-in-leeds/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>/talk/fdm-group-taking-the-team-to-visit-fdm-group-in-leeds/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

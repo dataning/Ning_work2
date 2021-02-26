@@ -1,35 +1,201 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Projects | Data Pokémon 🍱</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <title>Building an open data science repo for Bradford</title>
+      <link>/project/databradford/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/project/databradford/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <title>Mental Health Service - Spatial Temporal Modelling (ongoing)</title>
+      <link>/project/mental_health_service/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/mental_health_service/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot15.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>School admission - The game of preference.</title>
+      <link>/project/school_admission/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/school_admission/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;fig14.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig18.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A map of hotspots in arson crime and a time series regression analysis of arson behaviour and treatment of depression in Leeds</title>
+      <link>/project/violent_crime/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/violent_crime/</guid>
+      <description>&lt;p&gt;Arson cases often attract complete attention due to their lousy influence. At the same time, depression has become the second most disabling disease in 26 countries, and the number of cases has risen sharply in the past decade. Studies on these two aspects are often reflected in specific case studies, while case-related information is challenging to obtain. This paper hopes to study the correlation between the two by using the big data published on the government website.&lt;/p&gt;
+&lt;p&gt;This paper used the data published on the Leeds local Government website from January 2015 to March 2020 in the United Kingdom and analyzed the relationship between arson hotspots and depression from two parts: space and time. Combined with the existing literature, the clustering analysis was carried out by introducing related variables based on the hot spot chart. The hotspot map obtained by cluster analysis showed that the urban centre area is more prone to deliberate arson. Areas with high morbidity had more bars, casinos, community rentals and schools and fewer police stations.&lt;/p&gt;
+&lt;p&gt;Besides, time series analysis and Granger causality test of the number of arson cases and the number of people receiving treatment for IAPT depression were also studied. The findings from these studies suggested that the three-exponential smoothing model is the most effective in predicting arson cases. Granger causality test showed that the arson case is granger&amp;rsquo;s reason for receiving IAPT treatment.&lt;/p&gt;
+&lt;p&gt;Based on data analysis, the author expects that the generated crime hot spot map may provide some assistant for local government governance-related cases. Meanwhile, it is suggested to strengthen the psychological prevention and psychological counselling in the areas with a high incidence of cases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A quantitative analysis of female self-employment in the UK</title>
+      <link>/project/female_employment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/female_employment/</guid>
+      <description>&lt;p&gt;The number of women starting their own businesses is increasing in the UK. Many scholars have studied this subject. What are the implications and benefits of using machine learning to analyse this trend for British women? This paper makes a quantitative analysis of British women&amp;rsquo;s self-employment. In this paper, three hypotheses are proposed and analysed by three methods. Firstly, time series prediction is used to analyse the trend change of British women&amp;rsquo;s self-employment with the development of time. The analysis results show that the proportion of British women starting their businesses has continually increased over time. It is predicted that the trend will continue to rise in the future. Secondly, the Clustering analysis method is used to analyse the features of the UK&amp;rsquo;s self-employment industry. The industry cluster of self-employment shows gender differences, and there is a significant difference between female and male in choosing self-employment industry. Finally, Survival analysis is adopted to analyse women&amp;rsquo;s self-employment survival time in the three industries specified in this paper. Although female entrepreneurs&#39; survival time is slightly shorter than that of male entrepreneurs, there is no significant difference in their survival curve. The financial crisis of 2008 and the COVID-19 pandemic of 2020 have had a significant negative impact on women&amp;rsquo;s self- employment in the UK. The government should introduce reasonable and effective policies to help female self-employment, such as childcare policies and funding policies. Women should improve their education, which will help increase the success rate of self-employment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A&amp;E admission - Forecasting the &#34;winter pressure&#34; in West Yorkshire</title>
+      <link>/project/ae/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/ae/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of recalls of food and cosmetics in U.S.</title>
+      <link>/project/recall_food/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/recall_food/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Food recall is an effective way to ensure food safety. However, it may have adverse financial impact on companies. Here, we analyzed the recalls of food and cosmetics products, recorded by U.S. Food and Drug Administration for fiscal year 2013 through 2019 (i.e. 1 October 2012 to 30 September 2019). This study suggests that microbial contamination and undeclared allergens were still the leading causes of the food and cosmetics recalls during the study period. Listeria monocytogenes and Salmonella were the main pathogens related with microbial contamination. Milk were the most common allergen that failed to be declared. This study also introduced a new method to classify the recall reasons which paved the way for future study.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Broadband Speed - The invisible barrier in remote work and learning in Bradford</title>
+      <link>/project/internet_speed/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internet_speed/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;dens.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;speed_map.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Choice modelling in student accommodation</title>
+      <link>/project/choice_accomdation/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/choice_accomdation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The concept of housing preference has been studied for decades in multiple discipline and previous extensive research show how housing preferences have some uniqueness and similarities in across different group of people and culture. Arguably, choices and preferences in society can be considered as a constant dynamic phenomenon and with student housing being highlighted as an important body of knowledge in housing studies it is safe to say that, this area of research needs more investigations due to constant behaviour dynamism of students in each generation. There are substantial factors which influence students to choose their accommodation arrangement from any given pool of alternative. This study aims to examine and understand students’ decisions making process when choosing their residence and how different factors affect their decision-making process and how they influence students’ housing arrangement satisfaction. To gain insight on the research objective, an online survey was designed and by using social media 200 respondents were reached. 51% of the respondents were male and 49% were female with age distribution of; 5% between the age of 18 to 20 years, 14% between the age of 20-22 years, 25% between the age of 22-24 years and the rest were above 24 years old. Other factors which were taken into consideration were the level of study, among the respondents 36% were studying master’s degree, 46% were undergraduates and the rest were a mix of PhD students and other short-term programs (e.g. language) students. The study results show how significant factors were considered to understand students housing decisions. By considering factors like age, gender, proximity to public facilities, city centres, transportation etc. initial data analysis revealed a positive correlation between gender and living on or off-campus, and a correlation between gender and living in q facility with or without a private bathroom. More factors were analysed and obtained results which show students housing satisfaction level is affected by several factors. The study infers that, merely providing accommodation facility does not ensure students satisfaction with their living condition. Moreover, the study shows that satisfaction predictors should not be generalized since among other factors gender, age and academic level seemed to play key roles in students housing decision making process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classification Models of Software-related Medical Device Recalls by Machine Learning</title>
+      <link>/project/recall_software/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/recall_software/</guid>
+      <description>&lt;p&gt;This project focuses on software-related medical device recalls. As the application of software in the medical devices field becomes more popular and complex, this issue deserves more attention. Most existing work involves distribution, fault modes and trend analysis, and related recalls are collected by manual work, which is time-consuming. The paper attempts to build an automatic classification model by machine learning. Firstly, the data is from the FDA website from 2018 to 2019. Secondly, text mining is conducted to deal with human written descriptions. Thirdly, the paper uses k-NN algorithm and Naïve Bayes algorithm to build models, and then tests them by cross validation. The models perform well and their accuracy are both around 90%, which means such classification models by machine learning are feasible. But there are also some problems, such as the selection of parameter k value in k-NN model, and they do not perform well in some other measurements such as sensitivity. In future work, more optional algorithms including hybrid ones should be considered, then the study in this area will provide a more efficient way to medical agencies and manufacturers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of risk control effect of three major cities in Yorkshire under covid-19</title>
+      <link>/project/risk_control/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/risk_control/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Based on the public health crisis of global pneumonia in 2020, three tasks are carried out: to analyze the epidemic situation and control situation in Leeds York Sheffield by time series analysis, and to explore the management structure problems reflected in the large-scale public health and safety problems, by analyzing the overall and local case growth in the UK. Through the government&amp;rsquo;s public opinion survey report, the demand of merchants and the results of the government&amp;rsquo;s subsidy and assistance are clarified,finding the gap between plan and implementation. To explore the effectiveness of the measures and implementation formulated by the government, and compare the gap between the two. By comparing the expected effect of the annual financial plan and risk planning with the actual situation, the relationship between the control and management effect of the three local epidemic situation and the above two is compared. Finally, it evaluates whether financial budget can be effectively used in risk assessment, and examines the decision-making and bias of local governments in the UK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Determine the cause factors of software publishing start-ups survival in the UK</title>
+      <link>/project/startup_-software/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/startup_-software/</guid>
+      <description>&lt;p&gt;This project analyses the survival situation of 9,067 software publishing companies registered in the UK in 2014 within five years after their establishment. First, we analyse what start-ups and software publishing companies are, what are their characteristics, motivations, current and common survival issues, and factors that may affect survival. Then, we apply the K-NN algorithm, support vector machine and decision tree model to train and optimise these models, and then test and predict classification. The decision tree model classified UK software publishing start-ups with turnover per employee of more than 88,000 GBP and a start-up team of more than three and less than five as those that could successfully survive the initial stage. We have the basic data of these start-ups in the FAME database, and the K-NN algorithm and support vector machine can predict the survival of these start-ups with over 90% accuracy based on their characteristic data. However, both models also have the problem of misjudging a company that fails to survive as a successful one, which brings losses to entrepreneurs or investors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Develop an open dashboard for local government based on spending data</title>
+      <link>/project/council_spending/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/council_spending/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Currently, with the increasing development of open data as well as public’s awareness of performance evaluation for local governments to see whether governments are doing their jobs. In this way, local governments have to satisfy the increasing needs from the public and make full use of the open data. Thus, this paper is aiming to provide a way for local governments to use open government data to develop open data driven KPI to evaluate their performance and use visualization to monitor their performance and facilitate participations of the public. Based on this, the spending data of Leeds Council is used to mine the possible patterns within the data through cluster analysis and dashboard is used to manage the performance in the visual way. In this case, spending is defined as the open KPI to evaluate the performance of Leeds Council and it is found that there are priorities of spending which can be compared with operational goals to determine whether Leeds government has good performance. Finally, it is suggested that not only local governments but also business corporations can utilize the open data to create more values and support their decisions making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How does social media help pop-up stores of different size enterprises to success?</title>
+      <link>/project/popup_stores/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/popup_stores/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The goal is to compare the online sentiment, social media topics, and network tie of pop-up stores from SME (small and medium- sized enterprises) and LE (large enterprise) in the UK. This project is focused on sentiment analysis, topic modelling and network analysis on the social media data associated with the pop-up stores. Three findings have been derived from the study. First of all, neutral is the most common attitude for the pop-up stores, and the public has the less negative attitudes towards the pop-up stores of LE compared to the pop-up stores of SME. Specifically, the public tends to feel more positive and anticipated with the pop-up stores of LE, but more joy with the pop-up stores of SME. What is more, the synergy exists when one pop-up store launched, which would boost the public attitude to other pop-up stores. Second, there is no difference in terms of the social media text topics involved with the pop-up stores between the LE and SME, which would conclude into three topics, subjects of pop-up stores, time and location, and attractive words. Third, LEs are more willing to not only use the easily recognizable hashtags but also collaborative with accounts of social media influencer and other businesses than the SMEs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rental price prediction on Airbnb——Evidence from Beijing under covid-19</title>
+      <link>/project/airbnb_beijing/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/airbnb_beijing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;With the development of sharing economy, Airbnb has become an attractive choice for both travelers and property owners, especially in big cities like Beijing. The majority of hosts in Airbnb are not professional and thus have little knowledge on how to set reasonable rental prices. This study mainly focuses on two questions: which features are important to listings price and what pricing models are suitable for Beijing Airbnb? The author employed linear regression model to select features and machining learning techniques to do price prediction, which bridges some research gaps. The results show that property attributes and review data are key determinants for Beijing Airbnb price and random forest performs best in terms of price prediction. These findings will help stakeholders, such as platform managers and hosts, to get a better understanding of their market strategies and to build rational pricing strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tech startup survival in London - Machine Learning apporach</title>
+      <link>/project/startup_london/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/startup_london/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project studies the survival factors of technological startups registred in London between 2015 and 2019. It also develops a Random Forest model to predict future startup status (Active or Out of business). The analysis uses the combination of two data sources, FAME and Companies House. This work shows that the survival of technology startups is positively linked to directors age, company size (“liability of smallness” thesis) and the indebtedness level (“Pecking order” theory). The analysis also finds a positive relationship between female directors presence and survival rate, which contradict a large number of articles. The startup geographic location is also analysed, a however more detailed study should be done to identify how it is connected with the business performance. Finally, the predictive model developed offers an acceptable accuracy (around 0.7) but a moderate agreement with the actual values (Kappa = 0.44).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Factors of E-Learning Success by Analytics of Students Perceptions</title>
+      <link>/project/attribute_learning/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/attribute_learning/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;E-learning is rapidly evolving and is affecting all walks of life. Especially this year, because of Coronavirus, the number of users using e-learning is growing rapidly. Because of Coronavirus, schools have stopped physical classes and forced all students to study online. In the survey, students will be asked about their perceptions of e-learning from a variety of viewpoints, such as length of study, educational impact, comparison to traditional classes, enjoyment, impact of campus experience, impact of diplomas, motivation, and privacy. As a result of this study, it was found that the age of the learner was positively correlated with self- control; academic background was more focused on the impact of e-learning on the value of clerical employment; and the quality of teaching and educational resources influenced the value of e-learning. The study will identify key factors for the future direction of e-learning development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Yelp Ratings using Machine Learning</title>
+      <link>/project/yelp_rating/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>/project/yelp_rating/</guid>
+      <description>&lt;p&gt;In order to help business owners to determine the impact of various restaurants factors on consumer ratings and help some investors to make more rational judgments. This study examines the underlying factors that can make or break a potential restaurant. The research object of this study includes all the restaurants in operation, excluding those that have declared bankruptcy, and also not limited to the start-up restaurants. After preprocessing the data to deal with missing values, various machine learning techniques(SVM, logistic regression, decision tree and random forest classifier) are run to make predictions in the Yelp open dataset. The finding or the result shows that, among all the established models, the random forest model performs very well, with an accuracy of 0.7582, which is only slightly less than 0.003 of support vector machine (SVM) and almost negligible. In the other three indexes, the random forest is higher than other models. According to the table of results from the random forest model, the number of comments is the most important predictor. Openness, noise level and alcohol also greatly influence the target variable - &amp;ldquo;stars&amp;rdquo;, with the importance decreasing in turn.&lt;/p&gt;
 </description>
     </item>
     

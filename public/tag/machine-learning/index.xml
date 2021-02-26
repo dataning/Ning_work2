@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Data Pokémon 🍱</title>
+    <link>/tag/machine-learning/</link>
+      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>A&amp;E admission - Forecasting the &#34;winter pressure&#34; in West Yorkshire</title>
+      <link>/project/ae/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/ae/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of recalls of food and cosmetics in U.S.</title>
+      <link>/project/recall_food/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/recall_food/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Food recall is an effective way to ensure food safety. However, it may have adverse financial impact on companies. Here, we analyzed the recalls of food and cosmetics products, recorded by U.S. Food and Drug Administration for fiscal year 2013 through 2019 (i.e. 1 October 2012 to 30 September 2019). This study suggests that microbial contamination and undeclared allergens were still the leading causes of the food and cosmetics recalls during the study period. Listeria monocytogenes and Salmonella were the main pathogens related with microbial contamination. Milk were the most common allergen that failed to be declared. This study also introduced a new method to classify the recall reasons which paved the way for future study.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classification Models of Software-related Medical Device Recalls by Machine Learning</title>
+      <link>/project/recall_software/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/recall_software/</guid>
+      <description>&lt;p&gt;This project focuses on software-related medical device recalls. As the application of software in the medical devices field becomes more popular and complex, this issue deserves more attention. Most existing work involves distribution, fault modes and trend analysis, and related recalls are collected by manual work, which is time-consuming. The paper attempts to build an automatic classification model by machine learning. Firstly, the data is from the FDA website from 2018 to 2019. Secondly, text mining is conducted to deal with human written descriptions. Thirdly, the paper uses k-NN algorithm and Naïve Bayes algorithm to build models, and then tests them by cross validation. The models perform well and their accuracy are both around 90%, which means such classification models by machine learning are feasible. But there are also some problems, such as the selection of parameter k value in k-NN model, and they do not perform well in some other measurements such as sensitivity. In future work, more optional algorithms including hybrid ones should be considered, then the study in this area will provide a more efficient way to medical agencies and manufacturers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Determine the cause factors of software publishing start-ups survival in the UK</title>
+      <link>/project/startup_-software/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/startup_-software/</guid>
+      <description>&lt;p&gt;This project analyses the survival situation of 9,067 software publishing companies registered in the UK in 2014 within five years after their establishment. First, we analyse what start-ups and software publishing companies are, what are their characteristics, motivations, current and common survival issues, and factors that may affect survival. Then, we apply the K-NN algorithm, support vector machine and decision tree model to train and optimise these models, and then test and predict classification. The decision tree model classified UK software publishing start-ups with turnover per employee of more than 88,000 GBP and a start-up team of more than three and less than five as those that could successfully survive the initial stage. We have the basic data of these start-ups in the FAME database, and the K-NN algorithm and support vector machine can predict the survival of these start-ups with over 90% accuracy based on their characteristic data. However, both models also have the problem of misjudging a company that fails to survive as a successful one, which brings losses to entrepreneurs or investors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How does social media help pop-up stores of different size enterprises to success?</title>
+      <link>/project/popup_stores/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/popup_stores/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The goal is to compare the online sentiment, social media topics, and network tie of pop-up stores from SME (small and medium- sized enterprises) and LE (large enterprise) in the UK. This project is focused on sentiment analysis, topic modelling and network analysis on the social media data associated with the pop-up stores. Three findings have been derived from the study. First of all, neutral is the most common attitude for the pop-up stores, and the public has the less negative attitudes towards the pop-up stores of LE compared to the pop-up stores of SME. Specifically, the public tends to feel more positive and anticipated with the pop-up stores of LE, but more joy with the pop-up stores of SME. What is more, the synergy exists when one pop-up store launched, which would boost the public attitude to other pop-up stores. Second, there is no difference in terms of the social media text topics involved with the pop-up stores between the LE and SME, which would conclude into three topics, subjects of pop-up stores, time and location, and attractive words. Third, LEs are more willing to not only use the easily recognizable hashtags but also collaborative with accounts of social media influencer and other businesses than the SMEs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rental price prediction on Airbnb——Evidence from Beijing under covid-19</title>
+      <link>/project/airbnb_beijing/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/airbnb_beijing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;With the development of sharing economy, Airbnb has become an attractive choice for both travelers and property owners, especially in big cities like Beijing. The majority of hosts in Airbnb are not professional and thus have little knowledge on how to set reasonable rental prices. This study mainly focuses on two questions: which features are important to listings price and what pricing models are suitable for Beijing Airbnb? The author employed linear regression model to select features and machining learning techniques to do price prediction, which bridges some research gaps. The results show that property attributes and review data are key determinants for Beijing Airbnb price and random forest performs best in terms of price prediction. These findings will help stakeholders, such as platform managers and hosts, to get a better understanding of their market strategies and to build rational pricing strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tech startup survival in London - Machine Learning apporach</title>
+      <link>/project/startup_london/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/startup_london/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project studies the survival factors of technological startups registred in London between 2015 and 2019. It also develops a Random Forest model to predict future startup status (Active or Out of business). The analysis uses the combination of two data sources, FAME and Companies House. This work shows that the survival of technology startups is positively linked to directors age, company size (“liability of smallness” thesis) and the indebtedness level (“Pecking order” theory). The analysis also finds a positive relationship between female directors presence and survival rate, which contradict a large number of articles. The startup geographic location is also analysed, a however more detailed study should be done to identify how it is connected with the business performance. Finally, the predictive model developed offers an acceptable accuracy (around 0.7) but a moderate agreement with the actual values (Kappa = 0.44).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Yelp Ratings using Machine Learning</title>
+      <link>/project/yelp_rating/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/yelp_rating/</guid>
+      <description>&lt;p&gt;In order to help business owners to determine the impact of various restaurants factors on consumer ratings and help some investors to make more rational judgments. This study examines the underlying factors that can make or break a potential restaurant. The research object of this study includes all the restaurants in operation, excluding those that have declared bankruptcy, and also not limited to the start-up restaurants. After preprocessing the data to deal with missing values, various machine learning techniques(SVM, logistic regression, decision tree and random forest classifier) are run to make predictions in the Yelp open dataset. The finding or the result shows that, among all the established models, the random forest model performs very well, with an accuracy of 0.7582, which is only slightly less than 0.003 of support vector machine (SVM) and almost negligible. In the other three indexes, the random forest is higher than other models. According to the table of results from the random forest model, the number of comments is the most important predictor. Openness, noise level and alcohol also greatly influence the target variable - &amp;ldquo;stars&amp;rdquo;, with the importance decreasing in turn.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trivago | Data Pokémon 🍱</title>
+    <link>/tag/trivago/</link>
+      <atom:link href="/tag/trivago/index.xml" rel="self" type="application/rss+xml" />
+    <description>trivago</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>trivago</title>
+      <link>/tag/trivago/</link>
+    </image>
+    
+    <item>
+      <title>trivago - Flying to Germany with my team and spending time with trivago</title>
+      <link>/talk/trivago-flying-to-germany-with-my-team-and-spending-time-with-trivago/</link>
+      <pubDate>Fri, 01 Jun 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/trivago-flying-to-germany-with-my-team-and-spending-time-with-trivago/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Everything is confidential except the fun.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

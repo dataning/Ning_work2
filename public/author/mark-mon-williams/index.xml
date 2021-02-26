@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Mon-Williams | Data Pokémon 🍱</title>
+    <link>/author/mark-mon-williams/</link>
+      <atom:link href="/author/mark-mon-williams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Mon-Williams</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Mark Mon-Williams</title>
+      <link>/author/mark-mon-williams/</link>
+    </image>
+    
+    <item>
+      <title>Mental Health Service - Spatial Temporal Modelling (ongoing)</title>
+      <link>/project/mental_health_service/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/mental_health_service/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot15.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>School admission - The game of preference.</title>
+      <link>/project/school_admission/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/school_admission/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;fig14.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig18.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
