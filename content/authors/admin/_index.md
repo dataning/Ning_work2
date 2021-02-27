@@ -2,9 +2,9 @@
 bio: 
 education:
   courses:
-  - course: PhD in Consumer Data Science
+  - course: PhD in Behavioural Data Science
     institution: University of Leeds
-    year: 2019
+    year: 2020
   - course: MSc in International Health Management with Biostatistics and Epidemiology
     institution: Imperial College London
 email: ""
