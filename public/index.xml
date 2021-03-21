@@ -743,6 +743,21 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Comparing lockdown and winter pressure on A&amp;E admission</title>
+      <link>/project/lockdown_ae/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/lockdown_ae/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Determine the cause factors of software publishing start-ups survival in the UK</title>
       <link>/project/startup_-software/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -762,6 +777,19 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Ethnic minority inequalities in degree attainment</title>
+      <link>/project/degree_attainment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/degree_attainment/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Ethnic minority inequalities.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How does social media help pop-up stores of different size enterprises to success?</title>
       <link>/project/popup_stores/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -773,12 +801,51 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Lock down impact on academia job market</title>
+      <link>/project/academia_jobs/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/academia_jobs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Discovering a new way to explore job market data.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mental Health Incidents in Bradford</title>
+      <link>/project/mental_health/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mental_health/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Mental Health Incidents in Bradford.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rental price prediction on Airbnb——Evidence from Beijing under covid-19</title>
       <link>/project/airbnb_beijing/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/project/airbnb_beijing/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;With the development of sharing economy, Airbnb has become an attractive choice for both travelers and property owners, especially in big cities like Beijing. The majority of hosts in Airbnb are not professional and thus have little knowledge on how to set reasonable rental prices. This study mainly focuses on two questions: which features are important to listings price and what pricing models are suitable for Beijing Airbnb? The author employed linear regression model to select features and machining learning techniques to do price prediction, which bridges some research gaps. The results show that property attributes and review data are key determinants for Beijing Airbnb price and random forest performs best in terms of price prediction. These findings will help stakeholders, such as platform managers and hosts, to get a better understanding of their market strategies and to build rational pricing strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sexual violence against women in Sheffield</title>
+      <link>/project/sexual_violence/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/sexual_violence/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Self-reported data vs. routine reported crime data.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -799,6 +866,19 @@ Figure 1: A fancy pie chart.
       <guid>/project/attribute_learning/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;E-learning is rapidly evolving and is affecting all walks of life. Especially this year, because of Coronavirus, the number of users using e-learning is growing rapidly. Because of Coronavirus, schools have stopped physical classes and forced all students to study online. In the survey, students will be asked about their perceptions of e-learning from a variety of viewpoints, such as length of study, educational impact, comparison to traditional classes, enjoyment, impact of campus experience, impact of diplomas, motivation, and privacy. As a result of this study, it was found that the age of the learner was positively correlated with self- control; academic background was more focused on the impact of e-learning on the value of clerical employment; and the quality of teaching and educational resources influenced the value of e-learning. The study will identify key factors for the future direction of e-learning development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vaccination in Bradford</title>
+      <link>/project/vaccination/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/vaccination/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Vaccination in Bradford.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -843,7 +923,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-398217456&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-581276349&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -853,7 +933,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-398217456&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-581276349&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1107,7 +1187,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-218965437&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-547382691&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1117,7 +1197,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-218965437&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-547382691&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

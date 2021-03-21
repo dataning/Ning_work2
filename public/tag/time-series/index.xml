@@ -49,6 +49,21 @@
     </item>
     
     <item>
+      <title>Comparing lockdown and winter pressure on A&amp;E admission</title>
+      <link>/project/lockdown_ae/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/lockdown_ae/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;plot1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The potential of this dataset can go beyond Bradford and examine the situation of the whole UK.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Develop an open dashboard for local government based on spending data</title>
       <link>/project/council_spending/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>

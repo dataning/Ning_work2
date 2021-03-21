@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visulisation | Data Pokémon 🍱</title>
+    <link>/tag/data-visulisation/</link>
+      <atom:link href="/tag/data-visulisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Visulisation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufcd75c8c36f769d2edb1fe6215a7f155_163455_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Visulisation</title>
+      <link>/tag/data-visulisation/</link>
+    </image>
+    
+    <item>
+      <title>Lock down impact on academia job market</title>
+      <link>/project/academia_jobs/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/academia_jobs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Discovering a new way to explore job market data.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,6 +9,7 @@ view: 4
 
 ### Current Full-Time Data Science Interns
 
+-   Sam Relins (incoming)
 -   Maike Gatzlaff
 
 ### Former Full-Time Data Science Interns
