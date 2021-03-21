@@ -11,6 +11,7 @@ slides:
 summary:
 tags:
 - Time Series
+- Spatial
 title: Comparing lockdown and winter pressure on A&E admission
 url_code: ""
 url_pdf: ""

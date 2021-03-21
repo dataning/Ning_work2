@@ -10,7 +10,7 @@ links:
 slides:
 summary:
 tags:
-- Spatial analysis
+- Spatial
 title: Sexual violence against women in Sheffield
 url_code: ""
 url_pdf: ""

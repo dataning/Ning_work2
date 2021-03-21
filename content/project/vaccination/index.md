@@ -10,7 +10,7 @@ links:
 slides:
 summary:
 tags:
-- Spatial analysis
+- Spatial
 title: Vaccination in Bradford
 url_code: ""
 url_pdf: ""
