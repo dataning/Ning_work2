@@ -48,7 +48,7 @@ content:
   - name: Risk Assessment
     tag: Risk
   - name: Social Media Analysis
-    tag: Social Media
+    tag: Social media
   - name: Others
     tag: Others
 design:
