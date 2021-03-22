@@ -43,6 +43,12 @@ content:
     tag: Text Mining
   - name: Bayesian
     tag: Bayesian
+  - name: Choice Modelling
+    tag: Choice
+  - name: Risk Assessment
+    tag: Risk
+  - name: Social Media Analysis
+    tag: Social Media
   - name: Others
     tag: Others
 design:

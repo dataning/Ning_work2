@@ -1,17 +1,17 @@
 ---
 date: "2020-06-01T00:00:00Z"
-authors: 
-- Xuyu Mo
-- Lawrence Ning Lu
+authors:
+  - Xuyu Mo
+  - Lawrence Ning Lu
 external_link: ""
 image:
-  caption: 
+  caption:
   focal_point: Smart
-links: 
+links:
 slides:
 summary:
 tags:
-- Risk Assessment
+  - Risk
 title: Comparative analysis of risk control effect of three major cities in Yorkshire under covid-19
 url_code: ""
 url_pdf: ""

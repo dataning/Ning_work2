@@ -1,17 +1,17 @@
 ---
 date: "2020-06-01T00:00:00Z"
-authors: 
-- Zhichao Wen
-- Lawrence Ning Lu
+authors:
+  - Zhichao Wen
+  - Lawrence Ning Lu
 external_link: ""
 image:
-  caption: 
+  caption:
   focal_point: Smart
-links: 
+links:
 slides:
 summary:
 tags:
-- Others
+  - Others
 title: The Factors of E-Learning Success by Analytics of Students Perceptions
 url_code: ""
 url_pdf: ""
