@@ -33,14 +33,18 @@ content:
     tag: Dashboard
   - name: Machine Learning
     tag: Machine Learning
-  - name: Spatial
+  - name: Spatial Analysis
     tag: Spatial
+  - name: Data Visualisation
+    tag: Data viz
   - name: Time Series
     tag: Time Series
   - name: Text Mining
     tag: Text Mining
   - name: Bayesian
     tag: Bayesian
+  - name: Others
+    tag: Others
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '5'

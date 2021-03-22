@@ -11,7 +11,7 @@ links:
 slides:
 summary:
 tags:
-- Choice Modelling
+- Others
 title: Choice modelling in student accommodation
 url_code: ""
 url_pdf: ""

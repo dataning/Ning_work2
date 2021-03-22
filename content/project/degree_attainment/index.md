@@ -1,16 +1,16 @@
 ---
 date: "2020-06-01T00:00:00Z"
-authors: 
-- Lawrence Ning Lu
+authors:
+  - Lawrence Ning Lu
 external_link: ""
 image:
-  caption: 
+  caption:
   focal_point: Smart
 links:
 slides:
 summary:
 tags:
-- Spatial analysis
+  - Data viz
 title: Ethnic minority inequalities in degree attainment
 url_code: ""
 url_pdf: ""

@@ -11,7 +11,7 @@ links:
 slides:
 summary:
 tags:
-- Choice Modelling
+- Others
 title: The Factors of E-Learning Success by Analytics of Students Perceptions
 url_code: ""
 url_pdf: ""
