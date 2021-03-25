@@ -12,6 +12,7 @@ slides:
 summary:
 tags:
 - Time Series
+- Risk
 title: Develop an open dashboard for local government based on spending data
 url_code: ""
 url_pdf: ""

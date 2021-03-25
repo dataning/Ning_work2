@@ -10,7 +10,7 @@ links:
 slides:
 summary:
 tags:
-- Data Viz
+- Data viz
 title: Lock down impact on academia job market
 url_code: ""
 url_pdf: ""

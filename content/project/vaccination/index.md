@@ -18,6 +18,8 @@ url_slides: ""
 url_video: ""
 ---
 
+![](plot1.png)
+
 {{% callout note %}}
 Vaccination in Bradford.
 {{% /callout %}}
