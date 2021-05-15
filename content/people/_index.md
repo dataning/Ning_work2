@@ -9,32 +9,37 @@ view: 4
 
 ### Current Full-Time Data Science Interns
 
--   Sam Relins (incoming)
--   Maike Gatzlaff
+-   Samuel Relins
+
+### Current Teaching Assistant (Hero-Lab)
+
+-   Katrina Laiyuen Choi (MSc Business Analytics)
 
 ### Former Full-Time Data Science Interns
 
--   Holly Clarke - Office for National Statistics
+-   Maike Gatzlaff - undetaking PhD application in spatial science
+
+-   Holly Clarke - Research Officer, Office for National Statistics
 
 ### Former students I have recruited and worked with
 
--   Laura Garcia - Assistant Economist, Office for National Statistics
+-   Laura Garcia - Assistant Economist, Office for National Statistics (UK)
 
--   Ausrine Rimeikyte - Business Intelligent Engineer, Amazon
+-   Ausrine Rimeikyte - Business Intelligent Engineer, Amazon (Luxembourg)
 
--   Lu Liu - Senior Software Engineer, London Stock Exchange Group
+-   Lu Liu - Senior Software Engineer, London Stock Exchange Group (UK)
 
--   Ting Wang - Data Analyst, Weber Shandwick
+-   Ting Wang - Data Analyst, Weber Shandwick (China)
 
--   Erin Knochenhauer - Data Scientist, Mintel
+-   Erin Knochenhauer - Data Scientist, Mintel (US)
 
--   Sakis Sakkas - Data Service Associate, BlackRock
+-   Sakis Sakkas - Data Services Analyst, BlackRock (UK)
 
--   Karen Husel - Analytics Consultant, Nielsen
+-   Karen Husel - Analytics Consultant, Nielsen (Germany)
 
--   Vincent Chen - Business Anlytic Manager, eBay
+-   Vincent Chen - Business Analytic Manager, eBay (Taiwan)
 
--   Ben Sultanovic - Account Technologies
+-   Ben Sultanovic - Technical Product Owner, Account Technologies (UK)
 
 ### Former MSc Business Analytics Students (2020)
 
