@@ -2,7 +2,7 @@
 date: "2021-02-15T00:00:00Z"
 authors: 
 - Lawrence Ning Lu
-external_link: ""
+external_link: "www.databradford.com"
 image:
   caption: 
   focal_point: Smart
@@ -14,7 +14,7 @@ tags:
 title: Building an open data science repo for Bradford
 url_code: ""
 url_pdf: ""
-url_slides: "www.databradford.com"
+url_slides: ""
 url_video: ""
 ---
 
