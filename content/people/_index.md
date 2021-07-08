@@ -9,7 +9,11 @@ view: 4
 
 ### Current Full-Time Data Science Interns
 
--   Samuel Relins
+-   Samuel Relins - Data Science intern, Leeds Institute for Data Analytics
+
+### Current MSc Business Analytics Students (2021)
+
+-   Mais Khader - working on company data mining 
 
 ### Current Teaching Assistant (Hero-Lab)
 
@@ -17,9 +21,9 @@ view: 4
 
 ### Former Full-Time Data Science Interns
 
--   Maike Gatzlaff - undetaking PhD application in spatial science
+-   Maike Gatzlaff - PhD candidate in GIS, University of Auckland (New Zealand)
 
--   Holly Clarke - Research Officer, Office for National Statistics
+-   Holly Clarke - Data Linkage Analyst, Office for National Statistics (UK)
 
 ### Former students I have recruited and worked with
 
@@ -29,7 +33,7 @@ view: 4
 
 -   Lu Liu - Senior Software Engineer, London Stock Exchange Group (UK)
 
--   Ting Wang - Data Analyst, Weber Shandwick (China)
+-   Ting Wang - Senior Consultant, Capgemini (China)
 
 -   Erin Knochenhauer - Data Scientist, Mintel (US)
 
