@@ -6,7 +6,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-links: "www.databradford.com"
+links:
 slides:
 summary:
 tags:
@@ -14,7 +14,8 @@ tags:
 title: Building an open data science repo for Bradford
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "www.databradford.com"
 url_video: ""
 ---
 
+Please visit [www.databradford.com](www.databradford.com)
