@@ -2,11 +2,11 @@
 date: "2021-02-15T00:00:00Z"
 authors: 
 - Lawrence Ning Lu
-external_link: "www.databradford.com"
+external_link: ""
 image:
   caption: 
   focal_point: Smart
-links:
+links: "www.databradford.com"
 slides:
 summary:
 tags:
