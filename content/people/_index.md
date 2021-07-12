@@ -7,19 +7,9 @@ title: Students or interns I have supervised or led in data science projects
 view: 4
 ---
 
-### Current Full-Time Data Science Interns
+### Former Full-Time Data Science Interns
 
 -   Samuel Relins - Data Science intern, Leeds Institute for Data Analytics
-
-### Current MSc Business Analytics Students (2021)
-
--   Mais Khader - working on company data mining 
-
-### Current Teaching Assistant (Hero-Lab)
-
--   Katrina Laiyuen Choi (MSc Business Analytics)
-
-### Former Full-Time Data Science Interns
 
 -   Maike Gatzlaff - PhD candidate in GIS, University of Auckland (New Zealand)
 
