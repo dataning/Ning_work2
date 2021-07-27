@@ -16,8 +16,8 @@ interests:
 - Business Analytics
 - People Analytics
 organizations:
-- name: BlackRock
-role: Portfolio Analytics Group
+- name: Data Science
+role: Time Traveller
 social:
 - icon: r-project
   icon_pack: fab
